@@ -1,3 +1,5 @@
+%AW: looks good. 1/1. 
+
 %Inclass assignment 4. Due at the start of class on 9/12/17
 
 %1. (a) Write code that makes a file with the words "Random numbers 1" on its
